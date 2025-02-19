@@ -1,0 +1,94 @@
+{
+  "ver": "2.3.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e",
+  "files": [],
+  "subMetas": {
+    "6cef6": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@6cef6",
+      "displayName": "",
+      "id": "6cef6",
+      "name": "finish.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8591": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@e8591",
+      "displayName": "",
+      "id": "e8591",
+      "name": "Cube.126.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8d73": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@a8d73",
+      "displayName": "",
+      "id": "a8d73",
+      "name": "Road_platform.001.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09d61": {
+      "importer": "gltf-scene",
+      "uuid": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@09d61",
+      "displayName": "",
+      "id": "09d61",
+      "name": "road.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@09d61",
+    "assetFinder": {
+      "meshes": [
+        "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@6cef6",
+        "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@e8591",
+        "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@a8d73"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "cdf750a3-d10a-4b4c-b5fa-2cd0f2cbcb2e@09d61"
+      ]
+    },
+    "meshOptimizer": false
+  }
+}
